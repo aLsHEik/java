@@ -3,5 +3,6 @@ public class gui
 public gui()
   {
     super('hi java');
+    //mas
   }
 }
